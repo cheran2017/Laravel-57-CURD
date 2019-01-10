@@ -1,4 +1,4 @@
-<p align="center"><img src="../public/home.png"></p>
+<p align="center"><img src="home.png"></p>
 
 ## About Laravel
 
