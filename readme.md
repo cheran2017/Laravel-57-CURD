@@ -1,4 +1,9 @@
 <p align="center"><img src="home.png"></p>
+## Steps
+- Download the source
+- run php artisan migrate
+- register a user 
+- login and start using curd
 
 ## About Laravel
 
@@ -12,11 +17,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-## Steps
-- Download the source
-- run php artisan migrate
-- register a user 
-- login and start user curd
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
